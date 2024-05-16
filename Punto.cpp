@@ -4,7 +4,7 @@
 //Constructores
 Punto::Punto() {
 	x = 0;
-	y = 0
+	y = 0;
 }
 Punto::Punto(double _x, double _y) {
 	x = _x;
